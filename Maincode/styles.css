@@ -4,4 +4,7 @@
   border-radius: 10px;
   border-style: double;
   border-width: 15px;
+  text-decoration: chartreuse;
+  text-align: center;
+  text-transform: none;
 }

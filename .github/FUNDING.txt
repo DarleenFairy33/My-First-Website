@@ -1,7 +1,0 @@
-# These are supported funding model platforms
-
-gumroad: https://sugarfairy33.gumroad.com/
-
-
-ALL SPONSORS:
-  - Darleen

@@ -1,9 +1,10 @@
 .Darleen {
+  /* Main Text & Page CSS */
   background-color: black;
   font-family: monospace;
   font-weight: 400;
   font-size: 15px;
-  text-decoration: chartreuse;
   text-align: center;
   text-transform: none;
+  color: chartreuse;
 }

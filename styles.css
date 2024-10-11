@@ -1,0 +1,52 @@
+/* Copyright 2024 @DarleenFairy33 On github.com */
+html {
+  background-color: black;
+}
+.Darleen {
+  /* Main Text & Page CSS */
+  background-color: rgb(35, 35, 35);
+  font-family: monospace;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  text-transform: none;
+  color: chartreuse;
+  padding-left: 0.5in;
+  padding-right: 0.5in;
+  padding-bottom: 0.5in;
+  padding-top: none;
+}
+
+header {
+  /* Heading CSS */
+  background-color: rgb(35, 35, 35);
+  text-align: center;
+  font-family: monospace;
+  font-style: normal;
+  font-size: 25px;
+  color: chartreuse;
+}
+
+nav {
+  /* Navbar CSS */
+  background-color: rgb(35, 35, 35);
+  text-align: center;
+  font-size: 25px;
+  font-family: monospace;
+}
+
+aside{
+  /* Sidebar CSS */
+  float: left;
+  color: chartreuse;
+  font-family: monospace;
+  font-size: 15px;
+  font-weight: 500;
+  background-color: forestgreen;
+  border-top: 10px;
+  border-right: 10px;
+  border-bottom: 10px;
+  border-color: chartreuse;
+}
+
+/* Copyright 2024 @DarleenFairy33 On github.com */

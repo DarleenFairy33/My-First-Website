@@ -1,6 +1,4 @@
 # This Repository contains the following
-  - Maincode Folder:
-    This contains all the MAIN SOURCE CODE for the website.
   -Credits Folder:
     -This contains all .txt files for the following.
       - TOS

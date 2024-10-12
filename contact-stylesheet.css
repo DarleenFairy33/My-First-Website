@@ -1,0 +1,28 @@
+/* Copyright 2024 @DarleenFairy33 On github.com */
+
+body{
+  background-color: black;
+  color: deeppink;
+}
+
+.Heading{
+  text-align: center;
+  font-family: monospace;
+  font-weight: 500;
+  font-style: italic;
+}
+
+form{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 55px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 15px;
+  border: 1.5px;
+  border-color: deeppink;
+}
+
+/* Copyright 2024 @DarleenFairy33 On github.com */

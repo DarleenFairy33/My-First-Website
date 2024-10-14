@@ -1,11 +1,3 @@
-body{
-  background-color: black;
-  color: darkviolet;
-  font-family: monospace;
-  font-size: 15px;
-  font-weight: 400;
-}
-
 .nextbutton{
   background-color: none;
   padding-top: 0.5in;

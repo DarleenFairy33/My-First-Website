@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+  color: crimson;
+  font-family: monospace;
+}
+.Section11{
+  background-color: rgb(35, 35, 35);
+  text-align: left;
+}
+
+.DHEAD{
+  text-align: center;
+}
+
+.Links{
+  text-align: center;
+  text-decoration: none;
+}
